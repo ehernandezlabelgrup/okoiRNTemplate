@@ -1,8 +1,8 @@
 {
-    "name": "okoi-react-native-template",
+    "name": "react-native-okoi-template",
     "version": "1.0.0",
     "description": "React Native Template for app OKOI",
-    "repository": "https://github.com/ehernandezlabelgrup/okoiRNTemplate.git",
+    "repository": "https://github.com/ehernandezlabelgrup/react-native-okoi-template.git",
     "author": "Emilio Hernandez <hola@okoiagency.com>",
     "license": "MIT"
 }
