@@ -1,4 +1,4 @@
 module.exports = {
-  placeholderName: 'reactNativeOkoiTemplate',
+  placeholderName: 'reactnativeokoitemplate',
   templateDir: './template',
 }
