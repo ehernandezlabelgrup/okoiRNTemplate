@@ -1,0 +1,14 @@
+{
+    "es": {
+        "data": {
+            "iso": "es",
+            "name": "Español"
+        }
+    },
+    "en": {
+        "data": {
+            "iso": "en",
+            "name": "Ingles"
+        }
+    }
+}
