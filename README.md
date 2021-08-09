@@ -1,4 +1,4 @@
-# :space_invader: React Native Template ![npm](https://img.shields.io/npm/dw/@gabrielmoncea/react-native-template)
+# React Native OKOI Template ![npm]
 
 An opinionated template to bootstrap your next React Native app with all the time-wasting packages you need to have.
 
