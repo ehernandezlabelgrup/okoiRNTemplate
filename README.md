@@ -1,4 +1,4 @@
-# :space_invader: React Native Template TypeScript with Goodies ![npm](https://img.shields.io/npm/dw/@gabrielmoncea/react-native-template)
+# :space_invader: React Native Template ![npm](https://img.shields.io/npm/dw/@gabrielmoncea/react-native-template)
 
 An opinionated template to bootstrap your next React Native app with all the time-wasting packages you need to have.
 
