@@ -4,5 +4,9 @@
     "description": "React Native Template for app OKOI",
     "repository": "https://github.com/ehernandezlabelgrup/react-native-okoi-template.git",
     "author": "Emilio Hernandez <hola@okoiagency.com>",
-    "license": "MIT"
+    "license": "MIT",
+    "files": [
+        "template",
+        "template.config.js"
+    ]
 }
